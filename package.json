@@ -6,10 +6,12 @@
   "files": [
     "serial-ivisions.coffee",
     "README.md",
-    "serial-ivisions-config-schema.coffee"
+    "serial-ivisions-config-schema.coffee",
+    "device-config-schema.coffee",
+    "LICENSE"
   ],
   "license": "GPL-2.0",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/rrooggiieerr/pimatic-serial-ivisions",
   "configSchema": "serial-ivisions-config-schema.coffee",
   "dependencies": {
